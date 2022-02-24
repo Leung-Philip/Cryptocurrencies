@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#starter-code
+crypto_clustering_starter_code.ipynb
